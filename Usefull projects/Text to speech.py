@@ -1,4 +1,4 @@
-# TEXT TO SPLEECH
+# TEXT TO SPEECH
 
 from gtts import gTTS
 import os
